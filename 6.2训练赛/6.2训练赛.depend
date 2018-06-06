@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1527916120 source:d:\acm\2018º®¼Ù¼¯Ñµ\contest\6.2ÑµÁ·Èü\a.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<algorithm>
+	<cstring>
+	<math.h>
+	<cmath>
+
+1527918116 source:d:\acm\2018º®¼Ù¼¯Ñµ\contest\6.2ÑµÁ·Èü\b.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<vector>
+	<algorithm>
+	<stdlib.h>
+
+1527922704 source:d:\acm\2018º®¼Ù¼¯Ñµ\contest\6.2ÑµÁ·Èü\f.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<algorithm>
+	<cstring>
+
+1527923398 source:d:\acm\2018º®¼Ù¼¯Ñµ\contest\6.2ÑµÁ·Èü\g.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<algorithm>
+	<cstring>
+

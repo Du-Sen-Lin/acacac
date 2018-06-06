@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1526619685 source:d:\acm\专题训练\数据结构\huffman\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<algorithm>
+	<cstring>
+	<string>
+	<stdio.h>
+	<map>
+	<fstream>
+
+1526018573 source:d:\acm\专题训练\数据结构\huffman\a.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"string.h"
+	<time.h>
+
+1526044710 source:d:\acm\专题训练\数据结构\huffman\c.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<algorithm>
+
